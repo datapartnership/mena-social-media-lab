@@ -2,6 +2,8 @@
 
 The repository tracks routines maintained by **MENA Social Media Lab** (P174445) for the use of Twitter's Search API available through project proposal [MENA Social Media Lab](https://portal.datapartnership.org/readableproposal/188) on the [Development Data Partnership](https://datapartnership.org).
 
+The scripts were implemented and provided by [Alexei Abrahams](mailto:alexei_abrahams@alumni.brown.edu).
+
 ## Get Started
 
 Please see below a suggested project structure inspired by a simplified [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
